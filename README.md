@@ -5,12 +5,21 @@ date:   2015-06-04 13:50:39
 categories: others
 ---
 
+
+<iframe src="
+
+
 This is a test blog page where we can explore how to embedd images in the blog. 
+![image](https://user-images.githubusercontent.com/57684743/192389149-06b7d95b-40da-4e94-a845-6a8cf49edf68.png)
+
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/ClsZPj1jbbmcSTc942" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/ClsZPj1jbbmcSTc942">via GIPHY</a></p>
 
 
-![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://giphy.com/embed/ClsZPj1jbbmcSTc942))
+![Browse_Georeference]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://giphy.com/embed/ClsZPj1jbbmcSTc942))
 
-src="https://pbs.twimg.com/profile_images/1455185376876826625/s1AjSxph_400x400.jpg"
+<iframe src="https://giphy.com/embed/ClsZPj1jbbmcSTc942" width="480" height="362" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ClsZPj1jbbmcSTc942">via GIPHY</a></p>
+
+
 
 ![my alternate text]([http://lorempixel.com/400/200](https://pbs.twimg.com/profile_images/1455185376876826625/s1AjSxph_400x400.jpg));
 
