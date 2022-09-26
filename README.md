@@ -7,6 +7,8 @@ categories: others
 
 This is a test blog page where we can explore how to embedd images in the blog. 
 
+<iframe src="https://giphy.com/embed/ClsZPj1jbbmcSTc942" width="480" height="362" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ClsZPj1jbbmcSTc942">via GIPHY</a></p>
+
 ## Image example 1
 
 Here, I will embedd image from local assets which goes into `assets` directory in project's `root` directory. Choose a specific image, related to particular post. I chose to name the image `test-page-image-1.jpg`, which I will embedd as:
