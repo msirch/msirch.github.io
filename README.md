@@ -10,6 +10,10 @@ This is a test blog page where we can explore how to embedd images in the blog.
 
 ![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://giphy.com/embed/ClsZPj1jbbmcSTc942))
 
+src="https://pbs.twimg.com/profile_images/1455185376876826625/s1AjSxph_400x400.jpg"
+
+![my alternate text]([http://lorempixel.com/400/200](https://pbs.twimg.com/profile_images/1455185376876826625/s1AjSxph_400x400.jpg));
+
 ## Image example 1
 
 Here, I will embedd image from local assets which goes into `assets` directory in project's `root` directory. Choose a specific image, related to particular post. I chose to name the image `test-page-image-1.jpg`, which I will embedd as:
