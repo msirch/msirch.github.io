@@ -10,7 +10,9 @@ categories: others
 
 
 This is a test blog page where we can explore how to embedd images in the blog. 
-![image](https://user-images.githubusercontent.com/57684743/192389149-06b7d95b-40da-4e94-a845-6a8cf49edf68.png)
+![image](https://giphy.com/embed/ClsZPj1jbbmcSTc942)
+             
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/ClsZPj1jbbmcSTc942" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/ClsZPj1jbbmcSTc942">via GIPHY</a></p>
 
 <div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/ClsZPj1jbbmcSTc942" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/ClsZPj1jbbmcSTc942">via GIPHY</a></p>
 
