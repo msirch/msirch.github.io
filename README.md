@@ -387,9 +387,7 @@ layout: default
 		"date": "Oct 2016",
 		"tags": ["Android","nodejs"]
 	}
-
-]
-[
+	
   {
     "text": "Home",
     "url": "/",
@@ -422,4 +420,3 @@ layout: default
     "icon": "fa-feed",
     "target": _blank
   }
-]
