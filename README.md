@@ -359,10 +359,3 @@ layout: default
   </div>
 
 </article>
-
-		"name": "Cool project 1",
-		"image": "placeholder.jpg",
-		"url": "#",
-		"date": "Jan 2014",
-		"tags": ["Angular JS","API"]
-
