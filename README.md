@@ -1,47 +1,8 @@
 https://media.giphy.com/media/ClsZPj1jbbmcSTc942/giphy-downsized-large.gif
 
-![image](https://giphy.com/gifs/ClsZPj1jbbmcSTc942/fullscreen)
+![image](https://giphy.com/gifs/ClsZPj1jbbmcSTc942/fullscreen);
 
 
-![Browse_Georeference]([https://media.giphy.com/media/ClsZPj1jbbmcSTc942/giphy-downsized-large.gif](https://media.giphy.com/media/ClsZPj1jbbmcSTc942/giphy-downsized-large.gif))
-
-
-
-
-
-
-
-
-
-https://media.giphy.com/media/ClsZPj1jbbmcSTc942/giphy-downsized-large.gif
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/ClsZPj1jbbmcSTc942" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/ClsZPj1jbbmcSTc942">via GIPHY</a></p>
-
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/ClsZPj1jbbmcSTc942" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/ClsZPj1jbbmcSTc942">via GIPHY</a></p>
-             
-
-This is a test blog page where we can explore how to embedd images in the blog. 
-![image](https://giphy.com/embed/ClsZPj1jbbmcSTc942)
-             
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/ClsZPj1jbbmcSTc942" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/ClsZPj1jbbmcSTc942">via GIPHY</a></p>
-
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/ClsZPj1jbbmcSTc942" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/ClsZPj1jbbmcSTc942">via GIPHY</a></p>
-
-
-![Browse_Georeference]([https://media.giphy.com/media/ClsZPj1jbbmcSTc942/giphy-downsized-large.gif](https://media.giphy.com/media/ClsZPj1jbbmcSTc942/giphy-downsized-large.gif))
-
-<iframe src="https://giphy.com/embed/ClsZPj1jbbmcSTc942" width="480" height="362" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ClsZPj1jbbmcSTc942">via GIPHY</a></p>
-
-
-
-![my alternate text]([http://lorempixel.com/400/200](https://pbs.twimg.com/profile_images/1455185376876826625/s1AjSxph_400x400.jpg));
-
-## Image example 1
-
-Here, I will embedd image from local assets which goes into `assets` directory in project's `root` directory. Choose a specific image, related to particular post. I chose to name the image `test-page-image-1.jpg`, which I will embedd as:
-
-```markdown
-![my alternate text](/assets/test-page-image-1.jpg);
-``` 
 https://media.giphy.com/media/ClsZPj1jbbmcSTc942/giphy-downsized-large.gif
 ![my alternate text]([https://media.giphy.com/media/ClsZPj1jbbmcSTc942/giphy-downsized-large.gif](https://media.giphy.com/media/ClsZPj1jbbmcSTc942/giphy-downsized-large.gif));
 
