@@ -7,7 +7,8 @@ categories: others
 
 This is a test blog page where we can explore how to embedd images in the blog. 
 
-<iframe src="https://giphy.com/embed/ClsZPj1jbbmcSTc942" width="480" height="362" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ClsZPj1jbbmcSTc942">via GIPHY</a></p>
+
+![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://giphy.com/embed/ClsZPj1jbbmcSTc942))
 
 ## Image example 1
 
