@@ -33,7 +33,7 @@ Here, I will embedd image from local assets which goes into `assets` directory i
 ![my alternate text](/assets/test-page-image-1.jpg);
 ``` 
 
-![my alternate text]([https://giphy.com/gifs/ClsZPj1jbbmcSTc942.gif](https://giphy.com/gifs/ClsZPj1jbbmcSTc942.gif));
+![my alternate text]([https://giphy.com/gifs/ClsZPj1jbbmcSTc942](https://giphy.com/gifs/ClsZPj1jbbmcSTc942));
 
 Ofcourse, you can load images from web as well. Just point to image direct URL. For ex, here is one placeholder image:
 
