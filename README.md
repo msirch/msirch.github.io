@@ -359,8 +359,8 @@ layout: default
   </div>
 
 </article>
-[
-	{
+
+{
 		"name": "Cool project 1",
 		"image": "placeholder.jpg",
 		"url": "#",
